@@ -8,4 +8,7 @@ Java app integrated with AWS services
 - lambda
 - cognito?
 - nosql
+- sqs
+- kinesis?
+- step func
 - ec2?
