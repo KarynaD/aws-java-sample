@@ -1,7 +1,7 @@
 # aws-java-sample
 Java app integrated with AWS services
 
-
+- docker(ecs)
 - rds
 - s3
 - api gateway + ecs
