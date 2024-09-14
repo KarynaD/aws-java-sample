@@ -1,0 +1,9 @@
+services:
+  task:
+    image: task:latest
+    build:
+      context: ./task
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8081"
+
